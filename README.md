@@ -52,7 +52,7 @@ Output Item:"""['2024-04-30', '2024-06-13', '2024-07-24'] 0-01-12 144.7833333333
 The average price from 2024-06-13 to 2024-07-24 minus the average price from 2024-04-30 to 2024-06-13, then divided by the number of data period is equal to 144.783333333333333
 
 0-01-12
-'2024-04-30'到'2024-07-24'日期區間除以二 等於 0年-01月-12天
+'2024-04-30'到'2024-07-24'日期區間除以二 等於 0年01月12天
 The days from 2024-04-30 to 2024-07-24 divided by two equals to 0 years - 01 months - 12 days "0-01-12"
 
 0-01-11~18 每0個年1個月11~18天 分析一次
