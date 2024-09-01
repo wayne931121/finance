@@ -5,7 +5,7 @@ https://finance.yahoo.com/
 https://colab.research.google.com/drive/1NUq1BkDY0gKqSmz_2Ib7IMYNdARVHVfl?usp=drive_link
 
 這個程式會將股票紀錄用yfinance抓下來，一天一筆資料，每筆資料紀錄值為開盤價加收盤價再除以二。
-This program will use yfinance module to capture stock records, and transfers to datas, and the value of data record is the (open+close)/2 per day.
+This program will use yfinance module to download stock records, and transfers to datas, and the value of data record is the (open+close)/2 per day.
 
 ```
 name = "stock name"
