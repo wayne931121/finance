@@ -1,5 +1,5 @@
 # finance
-使用不同頻率分析股票 stock analysis at different frequency
+## 使用不同頻率分析股票 stock analysis at different frequency
 
 https://colab.research.google.com/drive/1NUq1BkDY0gKqSmz_2Ib7IMYNdARVHVfl?usp=drive_link
 
@@ -45,4 +45,11 @@ The days from 2024-04-30 to 2024-07-24 divided by two equals to 0 years - 01 mon
 
 0-01-11~18 每0個年1個月11~18天 分析一次
 0-01-11~18 Analyze every 0 years, 1 month, 11~18 days
+```
+## Simply
+```
+['2024-04-30', '2024-06-13', '2024-07-24'] 0-01-12 144.78333333333333
+
+2024年4月30日至2024年7月24日股票價值正向，價值指標上漲144.78333333333333，兩個時間中點座標經過時間0年-01月-12天
+The stock value from 2024-04-30 to 2024-07-24 is positive and value index up 144.78333333333333, duration of midpoint is 0y-01m-12d
 ```
