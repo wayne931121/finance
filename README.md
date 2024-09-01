@@ -1,5 +1,6 @@
 # finance
 ## 使用不同頻率分析股票 stock analysis at different frequency
+https://finance.yahoo.com/
 
 https://colab.research.google.com/drive/1NUq1BkDY0gKqSmz_2Ib7IMYNdARVHVfl?usp=drive_link
 
